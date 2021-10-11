@@ -4,9 +4,9 @@
 Проект выполнен в рамках курсового проекта в OTUS, курс [Machine Learning. Professional](https://otus.ru/lessons/machinelearning/?int_source=courses_catalog&int_term=data-science "Machine Learning. Professional")
 
 ## Исходные данные
-В качестве исходных данных для проекта брались рецензии оставленные на различный фильмы сайта [kinopoisk](https://www.kinopoisk.ru/ "kinopoisk") (именно фильмы, без сериалов и мультфильмов).
+В качестве исходных данных для проекта брались рецензии оставленные на различные фильмы сайта [kinopoisk](https://www.kinopoisk.ru/ "kinopoisk") (именно фильмы, без сериалов и мультфильмов).
 
-**[course_project_parser_ids](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_parser_ids.ipynb "course_project_parser_ids")** - парсер id фильмов kinopoisk-а. Требовалось сначала собрать данные по id фильмам, т.к. если брать числа просто по порядку, то попадаешь на несуществующие страницы сайта.
+**[course_project_parser_ids](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_parser_ids.ipynb "course_project_parser_ids")** - парсер id фильмов kinopoisk-а. Требовалось сначала собрать данные по id фильмам, т.к. если брать числа просто по порядку, то часто попадаешь на несуществующие страницы сайта.
 
 **[course_project_parser](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_parser.ipynb "course_project_parser")** - непостредственно парсер рецензий фильмов.
 
