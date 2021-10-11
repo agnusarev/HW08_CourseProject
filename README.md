@@ -10,4 +10,4 @@
 
 **[course_project_parser](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_parser.ipynb "course_project_parser")** - непостредственно парсер рецензий фильмов.
 
-**[course_project_union](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_union.ipynb "course_project_union")** - т.к. пасер запускался несколько раз, то требовалось потом объединить данные в один датасет.
+**[course_project_union](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_union.ipynb "course_project_union")** - т.к. парсер запускался несколько раз, то требовалось потом объединить данные в один датасет.
