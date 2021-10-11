@@ -12,6 +12,8 @@
 
 **[course_project_union](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_union.ipynb "course_project_union")** - т.к. парсер запускался несколько раз, то требовалось потом объединить данные в один датасет.
 
+## Анализ
+
 **[course_project_nltk_all](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_all.ipynb "course_project_nltk_all")** - анализ тональности рецензий фильмов (все типы рецензий: положительные, отрицательные, нейстральные) с использованием библиотеки nltk + LogisticRegression
 
 **[course_project_nltk_bad_good](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_bad_good.ipynb "course_project_nltk_bad_good")** - анализ тональности рецензий фильмов (с двумя типами рецензий: положительные, отрицательные) с использованием библиотеки nltk + LogisticRegression
