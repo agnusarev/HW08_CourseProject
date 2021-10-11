@@ -2,7 +2,7 @@
 
 ## Анализ тональности рецензий фильмов
 Проект выполнен в рамках курсового проекта в OTUS, курс Machine Learning. Professional (https://otus.ru/lessons/machinelearning/?int_source=courses_catalog&int_term=data-science)
-
+[Machine Learning. Professional](https://otus.ru/lessons/machinelearning/?int_source=courses_catalog&int_term=data-science "Machine Learning. Professional")
 ## Исходные данные
 В качестве исходных данных для проекта брались рецензии оставленные на различный фильмы сайта kinopoisk (именно фильмы, без сериалов и мультфильмов).
 
