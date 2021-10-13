@@ -26,7 +26,7 @@
 
 **[course_project_bert](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_bert.ipynb "course_project_bert")** - применение BERT для анализа тональности рецензий.
 
-```html
+<html>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bmabey/pyLDAvis@3.3.1/pyLDAvis/js/ldavis.v1.0.0.css">
 
@@ -68,4 +68,4 @@ if(typeof(LDAvis) !== "undefined"){
          });
 }
 </script>
-```
+</html>
