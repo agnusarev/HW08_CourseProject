@@ -16,6 +16,8 @@
 
 **[course_project_eda](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_eda.ipynb "course_project_eda")** - EDA данных
 
+**[course_project_topic_modeling](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_topic_modeling.ipynb "course_project_topic_modeling")** - Topic modeling визуализация
+
 ## Анализ
 
 **[course_project_nltk_all](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_all.ipynb "course_project_nltk_all")** - анализ тональности рецензий фильмов (все типы рецензий: положительные, отрицательные, нейстральные) с использованием библиотеки nltk + LogisticRegression
