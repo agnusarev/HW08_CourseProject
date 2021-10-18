@@ -16,14 +16,14 @@
 
 ## EDA + Topic modeling
 
-**[course_project_eda](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_eda.ipynb "course_project_eda")** - EDA данных
+**[course_project_eda](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_eda.ipynb "course_project_eda")** - EDA данных.
 
-**[course_project_topic_modeling](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_topic_modeling.ipynb "course_project_topic_modeling")** - Topic modeling визуализация
+**[course_project_topic_modeling](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_topic_modeling.ipynb "course_project_topic_modeling")** - Topic modeling визуализация.
 
 ## Анализ
 
-**[course_project_nltk_all](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_all_v2.ipynb "course_project_nltk_all")** - анализ тональности рецензий фильмов (все типы рецензий: положительные, отрицательные, нейстральные) с использованием библиотеки nltk + LogisticRegression
+**[course_project_nltk_all](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_all_v2.ipynb "course_project_nltk_all")** - анализ тональности рецензий фильмов (все типы рецензий: положительные, отрицательные, нейстральные) с использованием библиотеки nltk + LogisticRegression.
 
-**[course_project_nltk_bad_good](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_bad_good_v2.ipynb "course_project_nltk_bad_good")** - анализ тональности рецензий фильмов (с двумя типами рецензий: положительные, отрицательные) с использованием библиотеки nltk + LogisticRegression
+**[course_project_nltk_bad_good](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_bad_good_v2.ipynb "course_project_nltk_bad_good")** - анализ тональности рецензий фильмов (с двумя типами рецензий: положительные, отрицательные) с использованием библиотеки nltk + LogisticRegression.
 
 **[course_project_bert](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_bert.ipynb "course_project_bert")** - применение BERT для анализа тональности рецензий.
