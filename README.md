@@ -12,15 +12,13 @@
 
 **[course_project_parser](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_parser.ipynb "course_project_parser")** - непосредственно парсер рецензий фильмов.
 
-**[course_project_union](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_union.ipynb "course_project_union")** - т.к. парсер запускался несколько раз, то требовалось потом объединить данные в один датасет.
+**[course_project_union](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_union.ipynb "course_project_union")** - т.к. парсер запускался несколько раз, то требовалось потом объединить данные в один **[датасет](https://disk.yandex.ru/d/rIhPG_s7QJ4FMg "comments_full")**.
 
 ## EDA + Topic modeling
 
 **[course_project_eda](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_eda.ipynb "course_project_eda")** - EDA данных
 
 **[course_project_topic_modeling](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_topic_modeling.ipynb "course_project_topic_modeling")** - Topic modeling визуализация
-
-Ссылка на датасет: **[comments_full](https://disk.yandex.ru/d/rIhPG_s7QJ4FMg "comments_full")**
 
 ## Анализ
 
