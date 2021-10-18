@@ -1,5 +1,7 @@
 # HW08_CourseProject
 
+![sentiment-analysis](https://github.com/cLamik/HW08_CourseProject/blob/main/sentiment-analysis.jpg)
+
 ## Анализ тональности рецензий фильмов
 Проект выполнен в рамках курсового проекта в OTUS, курс [Machine Learning. Professional](https://otus.ru/lessons/machinelearning/?int_source=courses_catalog&int_term=data-science "Machine Learning. Professional")
 
