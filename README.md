@@ -27,3 +27,7 @@
 **[course_project_nltk_bad_good](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_bad_good_v2.ipynb "course_project_nltk_bad_good")** - анализ тональности рецензий фильмов (с двумя типами рецензий: положительные, отрицательные) с использованием библиотеки nltk + LogisticRegression.
 
 **[course_project_bert](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_bert.ipynb "course_project_bert")** - применение BERT для анализа тональности рецензий.
+
+## Дополнительный материал
+
+**[stopwords-ru](https://github.com/stopwords-iso/stopwords-ru "stopwords-ru")** - использовались также стоп-слова из данного проекта.
