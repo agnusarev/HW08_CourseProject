@@ -28,7 +28,9 @@
 
 **[course_project_nltk_bad_good](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_nltk_bad_good_v2.ipynb "course_project_nltk_bad_good")** - анализ тональности рецензий фильмов (с двумя типами рецензий: положительные, отрицательные) с использованием библиотеки nltk + LogisticRegression.
 
-**[course_project_bert](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_bert.ipynb "course_project_bert")** - применение BERT для анализа тональности рецензий.
+**[course_project_bert_all](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_bert_all.ipynb "course_project_bert_all")** - применение BERT для анализа тональности рецензий (все типы рецензий: положительные, отрицательные, нейстральные).
+
+**[course_project_bert_bad_good](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_bert_bad_good.ipynb "course_project_bert_bad_good")** - применение BERT для анализа тональности рецензий (с двумя типами рецензий: положительные, отрицательные).
 
 ## Дополнительный материал
 
