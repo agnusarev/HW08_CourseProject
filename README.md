@@ -18,7 +18,7 @@
 
 **[course_project_eda](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_eda.ipynb "course_project_eda")** - EDA данных.
 
-**[course_project_topic_modeling](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_topic_modeling.ipynb "course_project_topic_modeling")** - Topic modeling визуализация.
+**[course_project_topic_modeling_v1](https://github.com/cLamik/HW08_CourseProject/blob/main/course_project_topic_modeling_v1.ipynb "course_project_topic_modeling_v1")** - Topic modeling визуализация.
 
 ## Анализ
 
